@@ -24,7 +24,3 @@ print("Removed grade: ", all_g.pop(2))
 print("\nYour remaining grades are: ", all_g)
 print("Nice work!  Your highest grade is a", all_g[0])
 
-
-
-
-
