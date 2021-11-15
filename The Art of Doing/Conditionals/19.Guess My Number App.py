@@ -21,5 +21,3 @@ if guess == number:
     print("Good job,",name,  "! You guessed my number in", str(x+1), "guesses!")
 else:
     print("\nGame Over. The number I was thinking of was " + str(number) + ".")
-
-
