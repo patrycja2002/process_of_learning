@@ -19,8 +19,3 @@ for i in range(number-1):
     golden_ratio.append(ratio)
     print(ratio)
 print("\nThe ratio of consecutive Fibonacci terms approaches Phi; 1.618...")
-
-
-
-
-
