@@ -55,5 +55,3 @@ foods.insert(0, new_food)
 
 print("\nHere is what remains on your grocery list: ")
 print(foods)
-
-
