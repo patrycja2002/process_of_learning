@@ -34,5 +34,3 @@ if username in users:
 
 else:
     print("Sorry, you do not have an account with us. Goodbye.")
-
-
