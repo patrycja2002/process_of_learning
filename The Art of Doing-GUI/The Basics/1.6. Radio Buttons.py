@@ -4,7 +4,7 @@ from tkinter import IntVar
 
 # Define window
 root = tkinter.Tk()
-root.title("Frame Basics!")
+root.title("Radio Button Basics!")
 root.geometry("400x400")
 root.resizable(0, 0)
 
@@ -17,8 +17,6 @@ def make_label():
         num_label = tkinter.Label(output_frame, text="2 two 2")
 
     num_label.pack()
-
-
 
 
 # Define Frames
